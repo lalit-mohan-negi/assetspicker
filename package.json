@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "hello",
+  "cordova": {
+    "id": "cordova-plugin-hello-world",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "lalit",
+  "license": "webgarh.inc"
+}
